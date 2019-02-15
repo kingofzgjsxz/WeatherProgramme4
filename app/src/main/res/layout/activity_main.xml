@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <Button
+        android:id="@+id/get_Air_Quality_Description_Btn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="获取目前的空气质量简报"
+        />
+
+    <Button
+        android:id="@+id/get_Weather_ForeCast_ByDay_Today_Day_Btn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="获取今天白天的天气状况"
+        />
+
+    <Button
+        android:id="@+id/get_Weather_ForeCast_ByDay_Today_Night_Btn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="获取今天夜晚的天气状况"
+        />
+
+</LinearLayout>

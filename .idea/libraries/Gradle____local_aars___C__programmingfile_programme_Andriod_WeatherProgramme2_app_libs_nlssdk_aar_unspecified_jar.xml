@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: __local_aars__:C.\programmingfile\programme\Andriod\WeatherProgramme2\app\libs\nlssdk.aar:unspecified@jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/nlssdk.aar/037fa6ae0f329629ed59ba00b5c9d296/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/nlssdk.aar/037fa6ae0f329629ed59ba00b5c9d296/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/nlssdk.aar/037fa6ae0f329629ed59ba00b5c9d296/jars/classes.jar!/" />
+    </SOURCES>
+  </library>
+</component>
